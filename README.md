@@ -9,7 +9,7 @@ web-vitals
 @web3-react/core
 @web3-react/injected-connector
 
-# Made use of Metamask wallet
+# Made use of Metamask wallet [Metamask Chrome Extention]
 
 # Steps 
 
