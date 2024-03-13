@@ -123,17 +123,9 @@ setError("")
 {
     messagebox == "number" &&<div className='mt-10   md:px-2 md:text-sm    flex  md:flex-col items-center justify-center'>
  <span className='font-bold text-2xl md:mb-4  md:text-lg uppercase mr-6 text-green-700'>
-account :
+Welcome to my account
   </span>
 
- <textarea
-                  type="text"
-                  readOnly
-                  ref={resultBox}
-                  className="textarea w-[50%] h-fit textarea-bordered focus:ring focus:outline-none"
-                  placeholder="Generated signature"
-                  value={account}
-                />
                  </div>
      
 }
