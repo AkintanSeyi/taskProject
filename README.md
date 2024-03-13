@@ -9,7 +9,9 @@ web-vitals
 @web3-react/core
 @web3-react/injected-connector
 
-# Steps
+# Made use of Metamask wallet
+
+# Steps 
 
 1: I wrapped my <App/> file in Web3ReactProvider from @web3-react/core whic makes us to be able to use web3
 2: Made use of React-router-dom for routing 
